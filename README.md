@@ -1,3 +1,3 @@
-# 자료구조 IN-LAB 과제 모음
-- 학기: 2024-1학기
-- 언어: C
+# Collection of Data Structures IN-LAB Assignments
+- Semester: 2024-1
+- Language: C
